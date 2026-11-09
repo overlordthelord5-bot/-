@@ -1,0 +1,6 @@
+{
+  "name": "WASEET - وسيط",
+  "description": "منصة وسيط الرقمية للاستشارات والخدمات والمنتجات والمتاجر والكتالوجات الإلكترونية والوسطاء",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
